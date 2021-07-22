@@ -12,7 +12,7 @@ Algumas das etapas em que eu realizo a exportação de algum modelo 3D do MMD e 
 
 ![preview-05](https://user-images.githubusercontent.com/37316637/126581156-4ea62a4f-3cf9-436f-979f-1ee36563080a.jpg)
 
-![preview-01](https://user-images.githubusercontent.com/37316637/126581146-dae1f448-a770-41ea-ab44-4cfa532a2958.jpg)
+![preview-02](https://user-images.githubusercontent.com/37316637/126581150-dd46d7f3-b9f7-49e0-9340-3d7de2ae1a8d.jpg)
 
 ![preview-06](https://user-images.githubusercontent.com/37316637/126581159-c4f92c39-7e08-40d0-889e-947c046f2048.jpg)
 
