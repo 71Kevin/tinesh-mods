@@ -1,2 +1,4 @@
 *.rar filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+Iris[[:space:]]swimsuit[[:space:]]Rockman[[:space:]]x[[:space:]]dive/** filter=lfs diff=lfs merge=lfs -text
+Jeanne[[:space:]]D'Arc[[:space:]]Cool[[:space:]]&[[:space:]]Sporty[[:space:]]from[[:space:]]FateExtella[[:space:]]Link/** filter=lfs diff=lfs merge=lfs -text
