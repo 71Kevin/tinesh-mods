@@ -1,6 +1,6 @@
 # tinesh-mods
 
-Mods de Resident Evil 4 que eu faço em meu tempo livre, sinta-se a vontade de realizar o Download dos meus Mods no meu perfil do Nexus mods (link no arquivo NexusMods Profile.txt)
+Mods que eu faço em meu tempo livre, sinta-se a vontade de realizar o Download dos meus Mods no meu perfil do Nexus mods (link no arquivo NexusMods Profile.txt)
 
 Algumas das etapas em que eu realizo a exportação de algum modelo 3D do MMD e importo o mesmo no formato, textura, objetos, poligonos, etc... em que o Re4 espera receber:
 
